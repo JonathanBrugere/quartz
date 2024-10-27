@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Bienvenue dans mon système de gestion de connaissance
 ---
 
 This is a blank Quartz installation.

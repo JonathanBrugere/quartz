@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"e88bf69cfda6f35a","type":"text","text":"cc","x":-250,"y":-23,"width":250,"height":60},
+		{"id":"ba838844611dea5e","type":"text","text":"xxxx[[Biochimie - Chapitre 1 - Cellule Eucaryote]]\ns","x":-250,"y":-240,"width":250,"height":60,"color":"3"},
+		{"id":"89522011041bba0a","type":"text","text":"","x":-230,"y":-94,"width":250,"height":60},
+		{"id":"6e6df48637bc3aa2","type":"text","text":"[[Sans titre 2.canvas|Sans titre 2]]x","x":-230,"y":-94,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"49431e1d988f837f","fromNode":"e88bf69cfda6f35a","fromSide":"top","toNode":"ba838844611dea5e","toSide":"bottom"},
+		{"id":"dc5dee44b4ffe912","fromNode":"6e6df48637bc3aa2","fromSide":"bottom","toNode":"e88bf69cfda6f35a","toSide":"bottom"}
+	]
+}
